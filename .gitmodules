@@ -1,0 +1,4 @@
+[submodule "yfchain"]
+	path = yfchain
+	url = https://github.com/nuls-io/nuls-v2
+	branch = master
